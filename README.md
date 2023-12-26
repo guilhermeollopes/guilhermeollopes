@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello! Welcome to my GitHub profile. 👋</h1>
+# Hello! Welcome to my GitHub profile. 👋
  
 <div align="center">
   <a href="https://github.com/raphaelfrei">
