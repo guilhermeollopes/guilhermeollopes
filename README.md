@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub profile. 👋
+# Hello! Welcome to my GitHub profile 👋
  
 <div align="center">
   <a href="https://github.com/guilhermeollopes">
